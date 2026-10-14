@@ -40,9 +40,11 @@ DAX measures were created to calculate key performance indicators for monitoring
 
 The primary KPIs included:
 
-- Total Customers: The number of distinct customers in the dataset.
-- Number of Churned Customers: The number of customers classified as churned.
-- Churn Rate: The proportion of customers who churned relative to the total customer population.
+| KPI | Purpose |
+|-----|---------|
+| Total Customers | The number of distinct customers in the dataset. |
+| Number of Churned Customers | The number of customers classified as churned. |
+| Churn Rate | The proportion of customers who churned relative to the total customer population. |
 
 The churn rate was calculated using the following formula:
 ```
@@ -118,6 +120,11 @@ The business should track customer churn, segment-level churn rates, and retenti
 If regularly updated data is available, scheduled refreshes and consistent reporting periods can help ensure that decision-makers work with relevant information.
 
 ## Limitations
-
-
+Although this project provides a structured approach to customer churn analysis, several limitations should be considered when interpreting the results.
+- Descriptive analysis: The dashboard summarizes existing customer data but does not independently predict future churn.
+- Causality: Observed relationships do not prove that a customer characteristic causes churn.
+- Data availability: The analysis is limited to the attributes and reporting period provided in the dataset.
+- Customer motivation: Additional feedback and cancellation data may be required to understand the reasons behind customer decisions.
+- 
+These limitations identify opportunities for future improvements, including predictive churn modelling, time-based analysis, and the integration of additional customer information.
 
