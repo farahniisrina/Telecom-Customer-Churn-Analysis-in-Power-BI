@@ -66,6 +66,11 @@ The analysis focused on the following dimensions:
 | Subscription | Does churn vary according to the services customers use? |
 
 Charts and visual comparisons were used to make the results easier to interpret and to identify customer segments that may require further investigation.
+<img width="1280" height="480" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/19d47642-4a45-45fd-8e00-ed509addda91" />
+Payment and Contract Charts.
+
+<img width="1219" height="738" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/9ffe96bc-b359-413e-a8bf-a758e475e94c" />
+Customer Demographics.
 
 ### Phase 4: Dashboard Development
 An interactive Power BI dashboard was developed to present the analysis in a clear and accessible format.
@@ -130,6 +135,6 @@ Although this project provides a structured approach to customer churn analysis,
 - Causality: Observed relationships do not prove that a customer characteristic causes churn.
 - Data availability: The analysis is limited to the attributes and reporting period provided in the dataset.
 - Customer motivation: Additional feedback and cancellation data may be required to understand the reasons behind customer decisions.
-- 
+  
 These limitations identify opportunities for future improvements, including predictive churn modelling, time-based analysis, and the integration of additional customer information.
 
