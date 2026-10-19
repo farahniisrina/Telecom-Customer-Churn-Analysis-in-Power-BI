@@ -72,7 +72,7 @@ An interactive Power BI dashboard was developed to present the analysis in a cle
 
 The Power BI dashboard incorporated KPI cards, donut charts, bar charts, and customer segmentation visuals to communicate the results.
 
-![Dashboard1]( )
+<img width="1326" height="735" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/fb4cdb7e-99cc-4301-8471-41397902dd99" />
 
 The dashboard was designed to help users:
 
