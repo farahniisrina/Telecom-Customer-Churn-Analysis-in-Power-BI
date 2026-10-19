@@ -1,5 +1,6 @@
 # Telecom-Customer-Churn-Analysis-in-Power-BI
 
+
 ## Overview
 Customer churn refers to the percentage of customers who discontinue their services within a specific period. In the telecommunications industry, customer churn is a significant business concern because losing existing customers can reduce revenue, increase customer acquisition costs, and affect long-term business growth.
 
@@ -70,6 +71,8 @@ Charts and visual comparisons were used to make the results easier to interpret 
 An interactive Power BI dashboard was developed to present the analysis in a clear and accessible format.
 
 The Power BI dashboard incorporated KPI cards, donut charts, bar charts, and customer segmentation visuals to communicate the results.
+
+![Dashboard1]( )
 
 The dashboard was designed to help users:
 
